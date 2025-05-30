@@ -1,0 +1,126 @@
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\RunewayBot.exe.config
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\RunewayBot.exe
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\RunewayBot.pdb
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\ConcurrentCollections.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\DSharpPlus.CommandsNext.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\DSharpPlus.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\DSharpPlus.Interactivity.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Buffers.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Memory.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Threading.Channels.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\ConcurrentCollections.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\DSharpPlus.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\DSharpPlus.CommandsNext.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\DSharpPlus.Interactivity.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Buffers.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Memory.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Threading.Channels.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\obj\Debug\RunewayBot.csproj.AssemblyReference.cache
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\obj\Debug\RunewayBot.csproj.CoreCompileInputs.cache
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\obj\Debug\RunewayBot.csproj.Up2Date
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\obj\Debug\RunewayBot.exe
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\obj\Debug\RunewayBot.pdb
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\obj\Debug\RunewayBot.csproj.AssemblyReference.cache
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\obj\Debug\RunewayBot.csproj.CoreCompileInputs.cache
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\obj\Debug\RunewayBot.exe
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\obj\Debug\RunewayBot.pdb
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\RunewayBot.exe.config
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\RunewayBot.exe
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\RunewayBot.pdb
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\ConcurrentCollections.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\DSharpPlus.CommandsNext.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\DSharpPlus.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\DSharpPlus.Interactivity.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\DSharpPlus.SlashCommands.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Buffers.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Memory.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Threading.Channels.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\ConcurrentCollections.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\DSharpPlus.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\DSharpPlus.CommandsNext.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\DSharpPlus.Interactivity.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\DSharpPlus.SlashCommands.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Buffers.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Memory.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Threading.Channels.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Io\Desktop\RunewayBot\Backups\RunewayBot 1.2\obj\Debug\RunewayBot.csproj.Up2Date
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\DSharpPlus.SlashCommands.dll
+C:\Users\Io\Desktop\RunewayBot\RunewayBot\bin\Debug\DSharpPlus.SlashCommands.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\RunewayBot.exe.config
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\RunewayBot.exe
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\RunewayBot.pdb
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\ConcurrentCollections.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\DSharpPlus.CommandsNext.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\DSharpPlus.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\DSharpPlus.Interactivity.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\DSharpPlus.SlashCommands.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Buffers.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Memory.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Threading.Channels.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\ConcurrentCollections.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\DSharpPlus.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\DSharpPlus.CommandsNext.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\DSharpPlus.Interactivity.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\DSharpPlus.SlashCommands.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Buffers.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Memory.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Threading.Channels.xml
+C:\Users\Io\Desktop\RunewayBot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Io\Desktop\RunewayBot\obj\Debug\RunewayBot.csproj.AssemblyReference.cache
+C:\Users\Io\Desktop\RunewayBot\obj\Debug\RunewayBot.csproj.CoreCompileInputs.cache
+C:\Users\Io\Desktop\RunewayBot\obj\Debug\RunewayBot.csproj.Up2Date
+C:\Users\Io\Desktop\RunewayBot\obj\Debug\RunewayBot.exe
+C:\Users\Io\Desktop\RunewayBot\obj\Debug\RunewayBot.pdb

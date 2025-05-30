@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Io\\Desktop\\RunewayBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|C:\\Users\\Io\\Desktop\\RunewayBot\\imagesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|solutionrelative:imagesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|C:\\Users\\Io\\Desktop\\RunewayBot\\other\\runesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|solutionrelative:other\\runesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|C:\\Users\\Io\\Desktop\\RunewayBot\\commands\\allslashcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|solutionrelative:commands\\allslashcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|C:\\Users\\Io\\Desktop\\RunewayBot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|c:\\users\\io\\desktop\\runewaybot\\commands\\allcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C42EAC-21AF-4FF0-8EEB-FC3B250913FD}|RunewayBot.csproj|solutionrelative:commands\\allcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Io\\Desktop\\RunewayBot\\commands\\AllCommands.cs",
+              "RelativeDocumentMoniker": "commands\\AllCommands.cs",
+              "ToolTip": "C:\\Users\\Io\\Desktop\\RunewayBot\\commands\\AllCommands.cs",
+              "RelativeToolTip": "commands\\AllCommands.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T16:25:08.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Io\\Desktop\\RunewayBot\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Io\\Desktop\\RunewayBot\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:46:13.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllSlashCommands.cs",
+              "DocumentMoniker": "C:\\Users\\Io\\Desktop\\RunewayBot\\commands\\AllSlashCommands.cs",
+              "RelativeDocumentMoniker": "commands\\AllSlashCommands.cs",
+              "ToolTip": "C:\\Users\\Io\\Desktop\\RunewayBot\\commands\\AllSlashCommands.cs",
+              "RelativeToolTip": "commands\\AllSlashCommands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T14:42:22.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RuneSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Io\\Desktop\\RunewayBot\\other\\RuneSystem.cs",
+              "RelativeDocumentMoniker": "other\\RuneSystem.cs",
+              "ToolTip": "C:\\Users\\Io\\Desktop\\RunewayBot\\other\\RuneSystem.cs",
+              "RelativeToolTip": "other\\RuneSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T13:01:22.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImagesManager.cs",
+              "DocumentMoniker": "C:\\Users\\Io\\Desktop\\RunewayBot\\ImagesManager.cs",
+              "RelativeDocumentMoniker": "ImagesManager.cs",
+              "ToolTip": "C:\\Users\\Io\\Desktop\\RunewayBot\\ImagesManager.cs",
+              "RelativeToolTip": "ImagesManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T17:36:32.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
